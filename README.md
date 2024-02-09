@@ -1,0 +1,1 @@
+# architecture_decision_record_Group_7
